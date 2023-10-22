@@ -35,7 +35,7 @@ public class Main {
                 case "0":
                     return;
                 default:
-                    System.out.println("Введите число от 1 до 3, или 0, чтобы выйти из меню.");
+                    System.out.println("Введите число от 1 до 3 для фильтрации, или 0, чтобы выйти из меню.");
             }
         }
     }
