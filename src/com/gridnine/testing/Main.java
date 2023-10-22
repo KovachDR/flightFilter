@@ -1,3 +1,5 @@
+package com.gridnine.testing;
+
 import com.gridnine.testing.model.Flight;
 import com.gridnine.testing.service.FilterFlights;
 import com.gridnine.testing.service.InfoService;
